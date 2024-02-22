@@ -35,7 +35,7 @@ Você irá criar um site, sobre o tema que você quiser, utilizando os elementos
         - Utilize a ferramenta de importação do próprio YouTube.
     5. Formulários
         - Utilize ao menos dois formulários no projeto.
-        - Cada formulário devera possuir no mínimo cinco controles de entrada.
+        - Cada formulário deverá possuir no mínimo cinco controles de entrada.
     6. Tabela
         - Utilize ao menos duas tabelas no projeto.
         - Cada formulário deverá possuir no mínimo cinco colunas e cinco linhas.
